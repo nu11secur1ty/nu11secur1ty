@@ -19,6 +19,7 @@ perl wetpusseysql.pl
 3. Take an action ;)
 
 - NOTE: If you see some kind of vulnerabilities please tell this of the `owner` of the web application!
+  and then you can call yourself a hacker ;) 
   
 BR @nu11secur1ty
 
