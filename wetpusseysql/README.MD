@@ -8,3 +8,8 @@
 ```bash
 cpan -i Browser::Open
 ```
+# Usage
+1. - Run the program like a user
+```bash
+./
+```
