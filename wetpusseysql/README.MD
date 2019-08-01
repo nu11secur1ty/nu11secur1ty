@@ -11,5 +11,13 @@ cpan -i Browser::Open
 # Usage
 1. - Run the program like a user
 ```bash
-./
+./wetpusseysql.pl
+perl wetpusseysql.pl
 ```
+2. Wait your browser to finish the job
+
+3. Take a action ;)
+
+- NOTE: If you see some kind of vulnerbilitis please tell this of the owner of the wep application!
+
+
