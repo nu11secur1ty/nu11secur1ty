@@ -1,8 +1,9 @@
 #!/usr/bin/perl
 #
-# wetpusseysql is a MySQl pentest for vulnerbilitis of MySQL program.
+# wetpusseysql is a program for MySQL penetration testing for vulnerabilities.
+# This is a simple and strong program for testing of vulnerabilities of MySQL server
 # Author V.Varbanovski @nu11secur1ty
-#######################################
+####################################################################################
 use strict;
 use warnings;
 use diagnostics;
@@ -18,7 +19,6 @@ oooo  o  oooo ooooooooo8 o888oo ooooooooo  oooo  oooo   oooooooo8  oooooooo8   o
   888888888  888          888    888    888 888   888          888        888 888           888 888          888 888    888  888 
    88   88     88oooo888   888o  888ooo88    888o88 8o 88oooooo88 88oooooo88    88oooo888     8888   88oooooo88    88ooo888 o888o
                                 o888                                                       o8o888                       888o \n\n\n";
-
 print color('reset');
 
 print color('bold red');
