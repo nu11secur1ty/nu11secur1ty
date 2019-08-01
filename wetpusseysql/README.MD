@@ -3,6 +3,10 @@
 # This is a simple and strong program for testing of vulnerabilities of MySQL server
 # Author V.Varbanovski @nu11secur1ty
 
+# Get program
+```bash
+wget https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/wetpusseysql/wetpusseysql.pl
+```
 - Need to install
 
 ```bash
