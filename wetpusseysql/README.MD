@@ -14,10 +14,11 @@ cpan -i Browser::Open
 ./wetpusseysql.pl
 perl wetpusseysql.pl
 ```
-2. Wait your browser to finish the job
+2. Wait for your browser to finish the job!
 
-3. Take a action ;)
+3. Take an action ;)
 
-- NOTE: If you see some kind of vulnerbilitis please tell this of the owner of the wep application!
-
+- NOTE: If you see some kind of vulnerabilities please tell this of the `owner` of the web application!
+  
+BR @nu11secur1ty
 
