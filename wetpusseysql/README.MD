@@ -14,7 +14,7 @@ cpan -i Browser::Open
 ./wetpusseysql.pl
 perl wetpusseysql.pl
 ```
-2. Wait for your browser to finish the job!
+2. Follow the steps and wait for your browser to finish the job!
 
 3. Take an action ;)
 
