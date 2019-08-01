@@ -1,0 +1,10 @@
+
+# wetpusseysql is a program for testing of MySQL vulnerabilities.
+# This is a simple and strong program for testing of vulnerabilities of MySQL server
+# Author V.Varbanovski @nu11secur1ty
+
+- Need to install
+
+```bash
+cpan -i Browser::Open
+```
