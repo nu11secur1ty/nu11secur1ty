@@ -1,6 +1,3 @@
-## Source
-https://github.com/nu11secur1ty/nu11secur1ty/blob/master/SQL%20Dorks%202019/wetpusseysql/LICENSE.MD
-
 ## TERMS AND CONDITIONS
 
 #### 0\. Definitions.
