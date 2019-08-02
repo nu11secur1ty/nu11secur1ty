@@ -15,6 +15,7 @@ print(Style.RESET_ALL)
 
 # Do not make a lot of requests searching! ;)
 query = input()
-  
+print("\n")
+
 for maaluk in search(query, tld="com", num=10, stop=25, pause=2): 
     print(maaluk)
