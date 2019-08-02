@@ -17,9 +17,7 @@ print(Style.RESET_ALL)
 query = input()
 print("\n")
 
-print(Fore.YELLOW + 'Your result\n')
-print(Fore.RESET_ALL)
-print(Fore.RED + '...\n')
+print(Fore.RED + 'Your result\n')
 for maaluk in search(query, tld="com", num=10, stop=25, pause=2): 
     print(maaluk)
 print(Style.RESET_ALL)
