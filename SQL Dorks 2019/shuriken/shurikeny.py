@@ -5,7 +5,7 @@ from colorama import Fore, Back, Style
 
 print(Fore.GREEN + 'Pyt here your d0rk')
 print(Fore.RED + 'When you finish with the search, close the browser and press Enter in the terminal')
-print(Fore.YELLOW + 'If you deside to not using the program press Ctrl+C')
+print(Fore.YELLOW + 'If you decide to not using the program press Ctrl+C')
 print(Style.RESET_ALL)
 
 dork = input()
