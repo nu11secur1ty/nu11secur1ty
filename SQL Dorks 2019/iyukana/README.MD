@@ -1,3 +1,5 @@
+# 勇敢な侍
+![](https://github.com/nu11secur1ty/nu11secur1ty/blob/master/SQL%20Dorks%202019/iyukana/logo/samurai-in-battle.jpg)
 # Need to install
 ```bash
 pip install -r need.txt
