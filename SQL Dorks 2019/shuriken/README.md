@@ -1,5 +1,4 @@
-# DorkMe
-<a href="https://asciinema.org/a/XT6U3c9XqwSNN4vTetxssc0e9" target="_blank"><img src="https://asciinema.org/a/XT6U3c9XqwSNN4vTetxssc0e9.png" /></a>
+# DorkMe google tool
 
 # Dependencies
      pip install -r requirements.txt
