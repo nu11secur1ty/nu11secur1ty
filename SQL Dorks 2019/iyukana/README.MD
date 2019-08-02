@@ -3,9 +3,11 @@
 ```bash
 python3 iyukana.py 
 Put your d0rk here
+```
 
-
-home.php?cat=
+- put: `home.php?cat=`
+- Output
+```bash
 http://qwqwqwqwq.us/merchandise/index.php?cat=19
 http://www.qwqwqwqwq.com/merchandise/index.php?cat=10
 https://qwqwqwqwq.com/merchandise/index.php?cat=1
