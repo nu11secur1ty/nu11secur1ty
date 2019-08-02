@@ -1,3 +1,8 @@
+# Need to install
+```bash
+pip install -r need.txt
+pip3 install -r need.txt
+```
 # How to use
 
 ```bash
