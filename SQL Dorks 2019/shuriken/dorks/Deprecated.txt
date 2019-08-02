@@ -1,0 +1,15 @@
+filetype:php inurl:tiki-index.php +sirius +1.9.*
+High
+Finds servers vulnerable to the CVE-2007-5423 exploit
+
+inurl:/vb/install/upgrade.php
+Medium
+Vbulletin custom updrade wizards
+
+intitle:"Mail Server CMailServer Webmail" "5.2"
+Medium
+https://www.exploit-db.com/ghdb/753/
+
+"Powered by: vBulletin Version 1.1.5"
+Medium
+https://www.exploit-db.com/ghdb/913/

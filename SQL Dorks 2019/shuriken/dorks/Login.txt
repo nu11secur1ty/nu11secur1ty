@@ -1,0 +1,15 @@
+filetype:png | "proportal"
+low
+Find ProPortal login portals. 
+
+intitle:"MyWebSQL" + "User ID: Password:"
+HIGH
+MyWebSQL login pages
+
+inurl:login.jsp intitle:"admin"
+Medium
+Admin Login Portal of a Web Page
+
+inurl:"/jira/login.jsp" intitle:"JIRA login"
+Medium
+Jira login pages

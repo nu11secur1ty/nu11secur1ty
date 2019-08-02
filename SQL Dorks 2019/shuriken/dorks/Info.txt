@@ -1,0 +1,15 @@
+filetype:env intext:AWS_SECRET
+HIGH
+.env files having AWS keys and other juicy info
+
+inurl:/.well-known/security.txt
+Medium
+https://www.exploit-db.com/ghdb/4793/
+
+inurl:?wp-commentsrss2.php -git
+Medium
+This dork show result that contain wp-commentsrss2.php
+
+inurl:index of driver.php?id=
+Medium
+Simple dork to reveal websites with a huge amount of errors
