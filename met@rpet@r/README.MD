@@ -6,6 +6,6 @@ Read somewhere, at least you can do that :)
 ```
 - NOTE:
 ```xml
-The funny things are, that all "hackers" also and "crackers" are using this method :D
+The funny things are, that all "hackers" also and "crackers" are using this method on 90% :D
 ```
 # Good luck ;)
