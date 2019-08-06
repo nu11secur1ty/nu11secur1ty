@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Author @nu11secur1ty
+# Author @nu11secur1ty 2019
 # Do not use this for malicious purpose
 # Ne izpolzvai za zlonamereni celi TUPAKO
 
