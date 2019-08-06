@@ -1,5 +1,5 @@
 # How to use 
 ```bash 
-Wreate somewhere
+Read somewhere, at least you can do that :)
 ```
 # Good luck ;)
