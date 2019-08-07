@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 # nu11secur1ty mode
-# version Shimazu 4.0
+# version Shimazu 4.0 code name met@rpret@t
 i="0"
 resize -s 25 80
 	clear
@@ -19,7 +19,7 @@ echo -e '\e[1;18m
        +#++#+    +#+    +#+    +#+       +#++#+     +#+  +#+    +#+    +#+ 
 #+#    #+##+#    #+#    #+#    #+#       #+##+#     #+# #+#     #+#    #+# 
 ######## ###    #################       ######     ############ ######## 
-					For	(Kali Linux)
+					For (Kali Linux) code name met@rpret@t
  						\e[1;34m
 					by nu11secur1ty
                            
