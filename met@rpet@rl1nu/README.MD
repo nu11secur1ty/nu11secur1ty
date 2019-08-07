@@ -1,1 +1,1 @@
-# Shimazu 4.0 - code namr met@rpret@t
+# Shimazu 4.0 - code name met@rpret@t
