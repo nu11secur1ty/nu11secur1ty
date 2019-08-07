@@ -23,7 +23,7 @@ echo -e '\e[1;18m
  						\e[1;34m
 					by nu11secur1ty
                            
-     Usage of ONLY FOR EDUCATIONAL PURPOSES!!! STAY LEGAL!!!
+     Use ONLY FOR EDUCATIONAL PURPOSES!!! STAY LEGAL!!!
                                                 \e[1;23m
 If you do not want to use the program, please press Ctrl+C to exit.
 
