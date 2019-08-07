@@ -19,7 +19,7 @@ echo -e '\e[1;18m
        +#++#+    +#+    +#+    +#+       +#++#+     +#+  +#+    +#+    +#+ 
 #+#    #+##+#    #+#    #+#    #+#       #+##+#     #+# #+#     #+#    #+# 
 ######## ###    #################       ######     ############ ######## 
-					For (Kali Linux) code name met@rpret@t
+					For (Kali Linux) code name met@rpet@r
  						\e[1;34m
 					by nu11secur1ty
                            
