@@ -81,6 +81,6 @@ elif [ "$x" == "$cl" ]; then
 		sleep 3;
 		systemctl stop apache2.service	
 		rm -rf /var/www/html/*
-		echo "Erverything is cleaning ;)"
+		echo "Everything is clean ;)"
 	fi
 done
