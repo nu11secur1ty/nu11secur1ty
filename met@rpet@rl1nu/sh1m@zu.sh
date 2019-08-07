@@ -1,6 +1,6 @@
 #!/usr/bin/bash
-# nu11secur1ty mode
-# version Shimazu 4.0 code name met@rpret@t
+# nu11secur1ty mode 2019
+# version Shimazu 4.0 code name met@rpet@r
 i="0"
 resize -s 25 80
 	clear
