@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 # nu11secur1ty mode 2019
+# Idea from KALILINUXTRICKSYT
 # version Shimazu 4.0 code name met@rpet@r
 i="0"
 resize -s 25 80
