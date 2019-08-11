@@ -1,5 +1,5 @@
 # test script
-```bash
+```html
 <script>alert(document.cookie);</script>
 ```
 
