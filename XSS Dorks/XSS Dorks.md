@@ -24,4 +24,13 @@ inurl:scrapbook.php?­id=
 inurl:headersearch.p­hp?sid=
 inurl:/poll/­default.asp?catid=
 inurl:/­search_results.php?se­arch=
+# Special ;)
+inurl:categoryId inurl:storeId (2 million results)
+inurl:resultCatEntryType
+inurl:searchTermScope
+inurl:”webapp/wcs”
+inurl:”ProductListingView”
+inurl:”AdvancedSearchDisplay”
+inurl:”CompareProductsDisplayView”
+inurl:parent_category_rn
 ```
