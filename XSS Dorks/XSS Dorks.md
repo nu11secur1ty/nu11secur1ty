@@ -1,4 +1,4 @@
-```xml
+```code
 inurl:".php?cmd="
 inurl:".php?z="
 inurl:".php?q="
