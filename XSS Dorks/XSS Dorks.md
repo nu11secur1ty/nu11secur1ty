@@ -1,3 +1,4 @@
+```xml
 inurl:".php?cmd="
 inurl:".php?z="
 inurl:".php?q="
@@ -23,3 +24,4 @@ inurl:scrapbook.php?­id=
 inurl:headersearch.p­hp?sid=
 inurl:/poll/­default.asp?catid=
 inurl:/­search_results.php?se­arch=
+```
