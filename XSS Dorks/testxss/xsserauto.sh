@@ -1,4 +1,5 @@
 #!/usr/bin/bash
+# Author nu11secur1ty
 
 echo "Give your host";
 read host 
