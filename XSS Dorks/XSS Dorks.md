@@ -34,3 +34,5 @@ inurl:”AdvancedSearchDisplay”
 inurl:”CompareProductsDisplayView”
 inurl:parent_category_rn
 ```
+# Setup xsserauto.sh 
+![Link-for-customize](https://xsser.03c8.net/)
