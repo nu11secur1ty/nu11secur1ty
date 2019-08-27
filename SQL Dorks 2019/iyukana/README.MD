@@ -5,7 +5,7 @@
 pip install -r need.txt
 pip3 install -r need.txt
 ```
-# How to use
+# Usage
 
 ```bash
 python3 iyukana.py 
