@@ -2,6 +2,7 @@
 # Authors: @nu11secur1ty
 # FBFBI
 
+import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -25,6 +26,7 @@ element_for_submit="check"
 
 #browser = webdriver.Safari()	#for macOS users[for others use chrome vis chromedriver]
 ## Linux, NOTE: chmod 755 driver/chromedriver
+permission = os.system('chmod 755 driver/chromedriver')
 browser = webdriver.Chrome(executable_path='driver/chromedriver') #uncomment this line,for chrome users
 
 ## Windows
