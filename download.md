@@ -8,5 +8,5 @@ BR @nu11secur1ty
 - ***$CVE = CVE-2018-0833***
 
 ```bash
-svn checkout https://github.com/nu11secur1ty/Windows10Exploits/trunk/Undefined/$CVE
+svn checkout https://github.com/nu11secur1ty/nu11secur1ty/trunk/$CVE
 ```
