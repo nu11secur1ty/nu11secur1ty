@@ -24,7 +24,7 @@ element_for_submit="check"
 
 
 #browser = webdriver.Safari()	#for macOS users[for others use chrome vis chromedriver]
-# Linux
+## Linux, NOTE: chmod 755 driver/chromedriver
 browser = webdriver.Chrome(executable_path='driver/chromedriver') #uncomment this line,for chrome users
 
 ## Windows
