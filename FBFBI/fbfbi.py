@@ -6,8 +6,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from modules import ping
-
+from modules import ping 
+	
 #enter the link to the website you want to automate login.
 website_link="https://lookup-id.com/"
 
@@ -24,6 +24,9 @@ element_for_submit="check"
 
 
 #browser = webdriver.Safari()	#for macOS users[for others use chrome vis chromedriver]
+# Linux
+browser = webdriver.Chrome('chromedriver')	#uncomment this line,for chrome users
+# Windows
 browser = webdriver.Chrome()	#uncomment this line,for chrome users
 #browser = webdriver.Firefox()	#uncomment this line,for chrome users
 
