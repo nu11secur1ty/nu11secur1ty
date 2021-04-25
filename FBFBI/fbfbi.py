@@ -13,7 +13,7 @@ website_link="https://lookup-id.com/"
 
 #enter your login username
 v = input("Please give the URL of the facebook account_name\nFor example: https://www.facebook.com/userblabla\n")
-# the victim (https://www.facebook.com/lorddoskias)
+# the victim (https://www.facebook.com/someuser)
 account=v
 
 #enter the element for username input field
