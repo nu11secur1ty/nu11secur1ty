@@ -5,8 +5,8 @@ you can make your own `SVN` script for downloading a single folder = CVE =)
 
 BR @nu11secur1ty
 
-- ***$CVE = CVE-2018-0833***
+- ***$node = FBFBI***
 
 ```bash
-svn checkout https://github.com/nu11secur1ty/nu11secur1ty/trunk/$CVE
+svn checkout https://github.com/nu11secur1ty/nu11secur1ty/trunk/$node
 ```
