@@ -1,7 +1,7 @@
 # Download single node
 
 - - - The variable is only for example ;)
-you can make your own `SVN` script for downloading a single folder = CVE =)
+you can make your own `SVN` script for downloading a single folder = node =)
 
 BR @nu11secur1ty
 
