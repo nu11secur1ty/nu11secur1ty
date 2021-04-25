@@ -25,7 +25,7 @@ element_for_submit="check"
 
 #browser = webdriver.Safari()	#for macOS users[for others use chrome vis chromedriver]
 # Linux
-browser = webdriver.Chrome('driver/chromedriver') #uncomment this line,for chrome users
+browser = webdriver.Chrome(executable_path='driver/chromedriver') #uncomment this line,for chrome users
 
 ## Windows
 # browser = webdriver.Chrome()	#uncomment this line,for chrome users
