@@ -1,9 +1,9 @@
 ![](https://github.com/nu11secur1ty/nu11secur1ty/blob/master/wetpusseysql/logo/wetpusseymysql.jpg)
-# wetpusseysql is a program for testing of MySQL vulnerabilities.
-# This is a simple and strong program for testing of vulnerabilities of MySQL server
-# Author: @nu11secur1ty
+## wetpusseysql is a program for testing of MySQL vulnerabilities.
+## This is a simple and strong program for testing of vulnerabilities of MySQL server
+## Author: @nu11secur1ty
 
-# Get program
+## Get program
 ```bash
 wget https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/wetpusseysql/wetpusseysql.pl
 ```
@@ -12,7 +12,7 @@ wget https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/wetpusse
 ```bash
 cpan -i Browser::Open
 ```
-# Usage
+## Usage
 1. - Run the program like a user
 ```bash
 ./wetpusseysql.pl
