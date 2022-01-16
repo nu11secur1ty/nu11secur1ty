@@ -73,7 +73,7 @@ Nature
 |---|---|---|
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
-| :cat: `:cat:` | :dog: `:dog:` | :eval_dog: `:eval_dog:`|:mouse: `:mouse:` |
+| :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
 | :hamster: `:hamster:` | :rabbit: `:rabbit:` | :wolf: `:wolf:` |
 | :frog: `:frog:` | :tiger: `:tiger:` | :koala: `:koala:` |
 | :bear: `:bear:` | :pig: `:pig:` | :pig_nose: `:pig_nose:` |
