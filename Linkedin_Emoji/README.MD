@@ -1,6 +1,7 @@
 ## Just copy and paste it into your post. 😎
 ## Linkedin emoji - 1.4
 
+## MySQL
 ︻╦╤─ 💉
 
 ## Python
