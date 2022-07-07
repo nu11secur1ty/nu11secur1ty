@@ -4,7 +4,7 @@
 ## MySQL
 ︻╦╤─ 💉
 
-## Drnink
+## Drink
 🍺
 
 ## Python
