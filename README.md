@@ -1,6 +1,9 @@
 # nu11secur1ty
 
-I'm a Penetration Testing Engineer. I'm also an exploits developer. [nu11secur1ty.github.io](https://nu11secur1ty.github.io).
+I'm a Penetration Testing Engineer. I'm also an exploits developer. 
+[packetstormsecurity.com](https://packetstormsecurity.com/search/?q=nu11secur1ty&s=files).
+[0day.today](https://0day.today/author/40474).
+[cxsecurity.com](https://cxsecurity.com/author/nu11secur1ty/1/).
 
 <p align="center">
         <a href="https://www.nu11secur1ty.com/"><img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.nu11secur1ty.com%2F"></a>
