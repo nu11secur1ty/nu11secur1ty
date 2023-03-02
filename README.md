@@ -2,8 +2,10 @@
 
 I'm a Penetration Testing Engineer. I'm also an exploits developer and security researcher in
 [packetstormsecurity.com](https://packetstormsecurity.com/search/?q=nu11secur1ty&s=files).
-[0day.today](https://0day.today/author/40474), and 
+[0day.today](https://0day.today/author/40474)
 [cxsecurity.com](https://cxsecurity.com/author/nu11secur1ty/1/).
+[exploit-db.com](https://www.exploit-db.com/?author=10359), and
+[cve.mitre.org](https://github.com/nu11secur1ty/CVE-mitre).
 
 <p align="center">
 <a href="https://www.nu11secur1ty.com/"><img src="https://github.com/nu11secur1ty/nu11secur1ty/blob/master/logo/logo300.png" width="519" height="129"/></a>
