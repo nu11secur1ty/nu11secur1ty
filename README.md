@@ -3,7 +3,7 @@
 I'm a Penetration Testing Engineer. I'm also an exploits developer. [nu11secur1ty.github.io](https://nu11secur1ty.github.io).
 
 <p align="center">
-    <a href="https://infosec.exchange/@itm4n"><img src="https://img.shields.io/mastodon/follow/109291300486127814?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&logo=mastodon&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
+    <a href="https://infosec.exchange/@nu11secur1ty"><img src="https://img.shields.io/mastodon/follow/109291300486127814?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&logo=mastodon&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
     <a href="https://github.com/nu11secur1ty"><img src="https://img.shields.io/github/followers/nu11secur1ty?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
 </p>
 
