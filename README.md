@@ -1,8 +1,8 @@
 # nu11secur1ty
 
-I'm a Penetration Testing Engineer. I'm also an exploits developer. 
+I'm a Penetration Testing Engineer. I'm also an exploits developer in
 [packetstormsecurity.com](https://packetstormsecurity.com/search/?q=nu11secur1ty&s=files).
-[0day.today](https://0day.today/author/40474).
+[0day.today](https://0day.today/author/40474), and 
 [cxsecurity.com](https://cxsecurity.com/author/nu11secur1ty/1/).
 
 <p align="center">
