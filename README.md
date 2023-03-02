@@ -5,6 +5,8 @@ I'm a Penetration Testing Engineer. I'm also an exploits developer and security 
 [0day.today](https://0day.today/author/40474), and 
 [cxsecurity.com](https://cxsecurity.com/author/nu11secur1ty/1/).
 
+<a href="https://www.nu11secur1ty.com/"><img src="https://github.com/nu11secur1ty/nu11secur1ty/blob/master/logo/logo300.png" width="519" height="129"/></a>
+
 <p align="center">
         <a href="https://www.nu11secur1ty.com/"><img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.nu11secur1ty.com%2F"></a>
     <a href="https://github.com/nu11secur1ty"><img src="https://img.shields.io/github/followers/nu11secur1ty?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
