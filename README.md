@@ -11,12 +11,14 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <a href="https://www.nu11secur1ty.com/"><img src="https://github.com/nu11secur1ty/nu11secur1ty/blob/master/logo/logo300.png" width="519" height="129"/></a>
 </p>
 
+<!--Plugin 0-->
 <p align="center">
         <a href="https://www.nu11secur1ty.com/"><img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.nu11secur1ty.com%2F"></a>
     <a href="https://github.com/nu11secur1ty"><img src="https://img.shields.io/github/followers/nu11secur1ty?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
 </p>
+<!--Plugin 0-->
 
-<!--other options-->
+<!--Plugin 1-->
 <div align="center">
   <a href="https://github.com/vicsantus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,7 +26,7 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nu11secur1ty&theme=dark&hide_border=false"/>
   
 </div><br>
-<!--other options-->
+<!--Plugin 1-->
         
 <p align="center">
 
