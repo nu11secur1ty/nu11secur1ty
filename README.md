@@ -30,4 +30,4 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <a href="https://github.com/nu11secur1ty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicsantus&layout=compact&count_private=true&langs_count=7&theme=dark"/>
 </a>
-<!--Plugin 5-->
+<!--Languages-->
