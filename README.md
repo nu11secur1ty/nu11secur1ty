@@ -26,8 +26,8 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 </a>
 <!--Plugin 3-->
        
-<!--Plugin 5-->
+<!--Languages-->
 <a href="https://github.com/nu11secur1ty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&hide_title=false&exclude_repo=nu11secur1ty.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicsantus&layout=compact&count_private=true&langs_count=7&theme=dark"/>
 </a>
 <!--Plugin 5-->
