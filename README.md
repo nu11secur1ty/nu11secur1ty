@@ -33,13 +33,13 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <!--Plugin 3
 <p align="center">
 
-<a href="https://github.com/nu11secur1ty/nu11secur1ty">
+<a href="https://github.com/nu11secur1ty">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&include_all_commits=true&custom_title=nu11secur1ty's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
 </a>
 Plugin 3-->
        
 <!--Plugin 5
-<a href="https://github.com/nu11secur1ty/nu11secur1ty">
+<a href="https://github.com/nu11secur1ty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&hide_title=false&exclude_repo=nu11secur1ty.github.io&langs_count=3&layout=default&hide_border=false&bg_color=1a1a1a&text_color=c9cacc&title_color=ffffff" />
 </a>
 Plugin 5-->
