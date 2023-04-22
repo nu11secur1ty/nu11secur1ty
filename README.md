@@ -21,10 +21,10 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <!--Panel-->
 <div align="center">
   <a href="https://github.com/nu11secur1ty">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&count_private=true&langs_count=7&theme=dark"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&count_private=true&langs_count=7&theme=dark"/>
   <!--Streak
-  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=nu11secur1ty&theme=dark&hide_border=false"/>
+  <img height="177em" src="https://github-readme-streak-stats.herokuapp.com/?user=nu11secur1ty&theme=dark&hide_border=false"/>
   -->
 </div>
 <!--Panel-->
