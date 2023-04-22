@@ -18,7 +18,7 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 </p>
 <!--Plugin 0-->
 
-<!--Plugin 1
+<!--Plugin 1-->
 <div align="center">
   <a href="https://github.com/vicsantus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,7 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nu11secur1ty&theme=dark&hide_border=false"/>
   
 </div><br>
-Plugin 1-->
+<!--Plugin 1-->
         
 <p align="center">
 
