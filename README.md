@@ -21,7 +21,7 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <!--Panel-->
 <div align="center">
   <a href="https://github.com/nu11secur1ty">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&title_color=fff&icon_color=cc0000&text_color=9f9f9f&bg_color=151515&show_icons=true"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&title_color=fff&icon_color=cc0000&text_color=9f9f9f&bg_color=151515&show_icons=true"/>
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&count_private=true&langs_count=7&theme=dark"/>
   <!--Streak
   <img height="177em" src="https://github-readme-streak-stats.herokuapp.com/?user=nu11secur1ty&theme=dark&hide_border=false"/>
