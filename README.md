@@ -18,13 +18,12 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 </p>
 <!--Plugin website + followers-->
 
-<!--Plugin 3-->
+<!--Usage-->
 <p align="center">
-
 <a href="https://github.com/nu11secur1ty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&include_all_commits=true&custom_title=nu11secur1ty's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vicsantus&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
-<!--Plugin 3-->
+<!--Usage-->
        
 <!--Languages-->
 <a href="https://github.com/nu11secur1ty">
