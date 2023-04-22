@@ -23,8 +23,7 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&count_private=true&langs_count=7&theme=dark"/><br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nu11secur1ty&theme=dark&hide_border=false"/>
   
-</div>
----
+</div><br>
 
 <p align="center">
 
