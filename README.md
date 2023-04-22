@@ -21,7 +21,8 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <!--Plugin 1-->
 <div align="center">
   <a href="https://github.com/nu11secur1ty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&include_all_commits=true&custom_title=nu11secur1ty's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
+</a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&count_private=true&langs_count=7&theme=dark"/><br />
           <!--Strak
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nu11secur1ty&theme=dark&hide_border=false"/>
@@ -32,7 +33,6 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 
 <!--Plugin 3
 <p align="center">
-
 <a href="https://github.com/nu11secur1ty">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&include_all_commits=true&custom_title=nu11secur1ty's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
 </a>
