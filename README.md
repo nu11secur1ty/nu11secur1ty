@@ -25,8 +25,7 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
           https://acedev003-readme-stats.vercel.app
           <!--URL-Vercel-->
           
-          <img height="177em" src="https://acedev003-readme-stats.vercel.app
-/api?username=nu11secur1ty&title_color=fff&icon_color=FF0505&text_color=9f9f9f&bg_color=151515&show_icons=true" />
+          <img height="177em" src="https://acedev003-readme-stats.vercel.app/api?username=nu11secur1ty&title_color=fff&icon_color=FF0505&text_color=9f9f9f&bg_color=151515&show_icons=true" />
           <img height="177em" src="https://acedev003-readme-stats.vercel.app
 /api/top-langs/?username=nu11secur1ty&layout=compact&count_private=true&langs_count=7&theme=dark" />
           <!--Streak
