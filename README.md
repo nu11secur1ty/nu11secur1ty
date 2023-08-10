@@ -21,15 +21,4 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <!--Panel-->
 | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=black&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/nu11secur1ty/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nu11secur1ty&repo=github-readme-stats&theme=black" />
-</a>
-<a href="https://github.com/nu11secur1ty/nu11secur1ty.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nu11secur1ty&repo=nu11secur1ty.github.io&theme=black" />
-</a>
-
 <!--Panel-->
