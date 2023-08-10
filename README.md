@@ -19,5 +19,5 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <!--Plugin website + followers-->
 
 <!--Panel-->
-
+[![nu11secur1ty's github stats](https://acedev003-readme-stats.vercel.app/api?username=nu11secur1ty&title_color=fff&icon_color=FF0505&text_color=9f9f9f&bg_color=151515&show_icons=true)](https://github.com/nu11secur1ty)
 <!--Panel-->
