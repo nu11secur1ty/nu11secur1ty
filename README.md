@@ -18,7 +18,7 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 </p>
 <!--Plugin website + followers-->
 
-<!--Panel-->
+<!--Panel
 <div align="center">
   <a href="https://github.com/nu11secur1ty">
           <!--URL-Veracel-->
@@ -32,4 +32,4 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <img height="177em" src="https://github-readme-streak-stats.herokuapp.com/?user=nu11secur1ty&theme=dark&hide_border=false"/>
 Streak-->
 </div>
-<!--Panel-->
+<!--Panel
