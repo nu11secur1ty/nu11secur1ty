@@ -19,6 +19,9 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 <!--Plugin website + followers-->
 
 <!--Panel-->
-| <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=cobalt&hide_border=true" /></a> |
+| <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="nu11secur1ty's github stats" /></a> | 
+
+
+<a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=monokai&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--Panel-->
