@@ -8,6 +8,6 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 [cve.mitre.org](https://github.com/nu11secur1ty/CVE-mitre) - red-team oriented.
 
 <!--Panel-->
-| <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=shadow_red&hide_border=true" /></a> |
+| <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=shadow_red&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--Panel-->
