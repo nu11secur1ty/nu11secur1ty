@@ -2,7 +2,7 @@
 ## Linkedin emoji - 1.4
 
 
-### Samurai
+### Samurai - Ronin - Ninja
 ⛩️ 🥷🏻 ☯ ㊙ 🏯🥋
 
 ### MySQL
