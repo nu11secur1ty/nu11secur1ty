@@ -1,6 +1,9 @@
 ## Just copy and paste it into your post. 😎
 ## Linkedin emoji - 1.4
 
+### Free
+:free:
+
 ### infinity
 ♾️
 ### Samurai - Ronin - Ninja
