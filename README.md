@@ -7,6 +7,8 @@ I'm a System Administrator IT Infrastructure Engineer and Penetration Testing En
 [exploit-db.com](https://www.exploit-db.com/?author=10359), and
 [cve.mitre.org](https://github.com/nu11secur1ty/CVE-mitre) - red-team oriented.
 
+PayPal.Me for the work, if you are not ashamed :) [ https://lnkd.in/dCyJGaUP ]
+
 <!--Panel-->
 | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&theme=shadow_red&show_icons&hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=shadow_red&hide_border=true" /></a> |
 | ------------- | ------------- |
