@@ -6,7 +6,7 @@ I'm a System Administrator, IT Infrastructure Engineer, and Penetration Testing 
 [cxsecurity.com](https://cxsecurity.com/author/nu11secur1ty/1/),
 [infosec.exchange](https://infosec.exchange/@nu11secur1ty),
 [exploit-db.com](https://www.exploit-db.com/?author=10359), and
-[cve.mitre.org](https://github.com/nu11secur1ty/CVE-mitre) - red-team oriented.
+[cve.org](https://www.cve.org/CVERecord/SearchResults?query=nu11secur1ty) - red-team oriented.
 
 PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dCyJGaUP ]
 
