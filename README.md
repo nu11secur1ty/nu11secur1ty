@@ -17,26 +17,32 @@ PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dC
 Panel-->
 
 <!--New-design-->
-<p align="center">
-  <!-- TOP ROW (3 CARDS) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=tokyonight"
-       width="320" alt="Profile" />
+<!-- Compact GitHub Profile Cards Layout -->
+<div style="display:flex; flex-direction:column; align-items:center; gap:10px;">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=tokyonight"
-       width="220" alt="Repos" />
+  <!-- TOP ROW: 3 cards -->
+  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=tokyonight"
+         width="300" style="border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" alt="Profile" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=tokyonight"
-       width="220" alt="Commits" />
-</p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=tokyonight"
+         width="220" style="border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" alt="Repos" />
 
-<p align="center">
-  <!-- SECOND ROW (2 CARDS) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11secur1ty&theme=tokyonight"
-       width="220" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=tokyonight"
+         width="220" style="border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" alt="Commits" />
+  </div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nu11secur1ty&theme=tokyonight"
-       width="220" alt="Productive Time" />
-</p>
+  <!-- BOTTOM ROW: 2 cards -->
+  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11secur1ty&theme=tokyonight"
+         width="220" style="border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" alt="Stats" />
+
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nu11secur1ty&theme=tokyonight"
+         width="220" style="border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" alt="Productive Time" />
+  </div>
+
+</div>
+
 
 
 
