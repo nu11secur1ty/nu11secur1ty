@@ -17,19 +17,31 @@ PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dC
 Panel-->
 
 <!--New-design-->
-<!-- GitHub-compatible 3x2 cards layout -->
+
+<!-- GitHub-compatible 3x2 cards layout (white background) -->
 <table align="center">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=tokyonight" width="300" style="border-radius:8px;" alt="Profile" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=tokyonight" width="220" style="border-radius:8px;" alt="Repos" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=tokyonight" width="220" style="border-radius:8px;" alt="Commits" /></td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=default" width="300" style="border-radius:8px;" alt="Profile" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=default" width="220" style="border-radius:8px;" alt="Repos" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=default" width="220" style="border-radius:8px;" alt="Commits" />
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11secur1ty&theme=tokyonight" width="220" style="border-radius:8px;" alt="Stats" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nu11secur1ty&theme=tokyonight" width="220" style="border-radius:8px;" alt="Productive Time" /></td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11secur1ty&theme=default" width="220" style="border-radius:8px;" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nu11secur1ty&theme=default" width="220" style="border-radius:8px;" alt="Productive Time" />
+    </td>
     <td></td> <!-- empty cell for spacing -->
   </tr>
 </table>
+<!--New-design-->
 
 
 
