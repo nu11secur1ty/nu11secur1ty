@@ -11,10 +11,10 @@ I'm a System Administrator, IT Infrastructure Engineer, and Penetration Testing 
 
 PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dCyJGaUP ]
 
-<!--Panel-->
+<!--Panel
 | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&theme=shadow_red&show_icons&hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=shadow_red&hide_border=true" /></a> |
 | ------------- | ------------- |
-<!--Panel-->
+Panel-->
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=tokyonight)
 
