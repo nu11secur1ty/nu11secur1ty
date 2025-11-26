@@ -17,23 +17,26 @@ PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dC
 Panel-->
 
 <!--New-design-->
-<p align="center" style="display:flex; justify-content:center; gap:6px; flex-wrap:nowrap;">
-
+<p align="center">
+  <!-- TOP ROW (3 CARDS) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=tokyonight"
-       width="260" alt="Profile" />
+       width="320" alt="Profile" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=tokyonight"
-       width="180" alt="Repos" />
+       width="220" alt="Repos" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=tokyonight"
-       width="180" alt="Commits" />
+       width="220" alt="Commits" />
+</p>
 
+<p align="center">
+  <!-- SECOND ROW (2 CARDS) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11secur1ty&theme=tokyonight"
-       width="180" alt="Stats" />
+       width="220" alt="Stats" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nu11secur1ty&theme=tokyonight"
-       width="180" alt="Productive Time" />
-
+       width="220" alt="Productive Time" />
 </p>
+
 
 
