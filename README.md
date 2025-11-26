@@ -16,3 +16,12 @@ PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dC
 | ------------- | ------------- |
 <!--Panel-->
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=tokyonight)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=tokyonight)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11secur1ty&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nu11secur1ty&theme=tokyonight)
