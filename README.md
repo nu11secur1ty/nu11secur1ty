@@ -17,6 +17,7 @@ PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dC
 <!--Panel-->
 
 <!--Panel-->
-| <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&theme=tokyonight&show_icons=true&hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&theme=tokyonight&show_icons=true&hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--Panel-->
+
