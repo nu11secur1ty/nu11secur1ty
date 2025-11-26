@@ -15,3 +15,15 @@ PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dC
 | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&theme=shadow_red&show_icons&hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=shadow_red&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--Panel-->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&show_icons=true" />
+</picture>
