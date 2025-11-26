@@ -16,46 +16,24 @@ PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dC
 | ------------- | ------------- |
 Panel-->
 
-<!-- Compact & centered profile cards -->
-<p align="center">
+<!--New-design-->
+<p align="center" style="display:flex; justify-content:center; gap:6px; flex-wrap:nowrap;">
 
-  <!-- Profile (slightly wider so avatar + name fit) -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=tokyonight"
-    alt="Profile Details"
-    width="300"
-    style="margin:6px; border-radius:8px;"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=tokyonight"
+       width="260" alt="Profile" />
 
-  <!-- Compact cards -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=tokyonight"
-    alt="Repos per language"
-    width="220"
-    style="margin:6px; border-radius:8px;"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=tokyonight"
+       width="180" alt="Repos" />
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=tokyonight"
-    alt="Most commit language"
-    width="220"
-    style="margin:6px; border-radius:8px;"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nu11secur1ty&theme=tokyonight"
+       width="180" alt="Commits" />
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11secur1ty&theme=tokyonight"
-    alt="Stats"
-    width="220"
-    style="margin:6px; border-radius:8px;"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nu11secur1ty&theme=tokyonight"
+       width="180" alt="Stats" />
 
-  <!-- Productive Time is flaky — small width so it doesn't dominate the row -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nu11secur1ty&theme=tokyonight"
-    alt="Productive Time (may be unavailable)"
-    width="220"
-    style="margin:6px; border-radius:8px;"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nu11secur1ty&theme=tokyonight"
+       width="180" alt="Productive Time" />
 
 </p>
+
 
