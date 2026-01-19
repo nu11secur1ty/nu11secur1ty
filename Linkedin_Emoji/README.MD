@@ -27,6 +27,9 @@
 ### Drink
 🍺
 
+### Diving, Submarine, sonar
+˒﹚) 
+
 ### Python
 🐍
 
