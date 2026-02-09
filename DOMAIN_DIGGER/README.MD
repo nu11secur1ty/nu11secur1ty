@@ -6,6 +6,12 @@ Professional-grade domain enumeration and subdomain discovery platform
 
 ![](https://github.com/nu11secur1ty/nu11secur1ty/blob/master/DOMAIN_DIGGER/docs/domain_gidder.jpg)
 
+# Linux
+
+```
+curl -s https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/DOMAIN_DIGGER/domain_digger.py | python3 - example --counter 50000
+```
+
 # Online in Win 11 PowerShell
 ```
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/DOMAIN_DIGGER/domain_digger.py").Content | python - your_damain --options
@@ -17,3 +23,4 @@ Professional-grade domain enumeration and subdomain discovery platform
 # Manual USAGE:
 
 [Link](https://github.com/nu11secur1ty/nu11secur1ty/blob/master/DOMAIN_DIGGER/USAGE.MD)
+
