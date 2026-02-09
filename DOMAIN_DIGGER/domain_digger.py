@@ -308,8 +308,16 @@ class MegaGenerator:
         """Generate domains for specific counter value"""
         domains = []
         
-        # Base patterns
+        # Base patterns - NOW WITH NUMBERS IN FRONT
         patterns = [
+            # NUMBERS IN FRONT (NEW!) - e.g., 1tempobet.com, 2tempobet.com
+            f"{counter_value}{self.base_name}.com",
+            f"{counter_value}{self.base_name}.net",
+            f"{counter_value}{self.base_name}.org",
+            f"{counter_value}-{self.base_name}.com",
+            f"{counter_value}.{self.base_name}.com",
+            
+            # Original patterns (numbers after) - e.g., tempobet1.com, tempobet2.com
             f"{self.base_name}{counter_value}.com",
             f"{self.base_name}{counter_value}.net",
             f"{self.base_name}{counter_value}.org",
@@ -317,14 +325,25 @@ class MegaGenerator:
             f"{self.base_name}.{counter_value}.com",
         ]
         
-        # Add TLD variations
+        # Add TLD variations for BOTH patterns
         for tld in ['.com', '.net', '.org', '.io']:
+            # Numbers in front variations
+            patterns.append(f"{counter_value}{self.base_name}{tld}")
+            patterns.append(f"{counter_value}-{self.base_name}{tld}")
+            
+            # Numbers after variations
             patterns.append(f"{self.base_name}{counter_value}{tld}")
             patterns.append(f"{self.base_name}-{counter_value}{tld}")
         
-        # Add subdomain variations
+        # Add subdomain variations for BOTH patterns
         for sub in ['www', 'api', 'app', 'mail']:
+            # Numbers in front with subdomain
+            patterns.append(f"{sub}.{counter_value}{self.base_name}.com")
+            patterns.append(f"{sub}.{counter_value}-{self.base_name}.com")
+            
+            # Numbers after with subdomain
             patterns.append(f"{sub}.{self.base_name}{counter_value}.com")
+            patterns.append(f"{sub}.{self.base_name}-{counter_value}.com")
         
         return list(set(patterns))
 
@@ -491,7 +510,7 @@ class HyperScanner:
         time.sleep(1)  # Show loader briefly
         
         # Estimate total domains
-        domains_per_counter = 10  # Reduced for better estimation
+        domains_per_counter = 20  # Increased because we now have MORE patterns
         total_domains = min(max_counter * domains_per_counter, MegaConfig.MAX_DOMAINS)
         
         print(f"\n[+] Estimated total domains: {total_domains:,}")
@@ -520,7 +539,7 @@ class HyperScanner:
                     if self.exit_handler.exit_requested:
                         break
                     counter_domains = self.generator.generate_for_counter(counter)
-                    batch_domains.extend(counter_domains[:10])  # Limit per counter
+                    batch_domains.extend(counter_domains[:15])  # Limit per counter
                 
                 # Scan batch if we have domains and exit not requested
                 if batch_domains and not self.exit_handler.exit_requested:
