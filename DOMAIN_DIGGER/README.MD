@@ -1,4 +1,4 @@
-###DOMAIN DIGGER - Advanced Domain Discovery Tool
+### DOMAIN DIGGER - Advanced Domain Discovery Tool
 
 Professional-grade domain enumeration and subdomain discovery platform
 
