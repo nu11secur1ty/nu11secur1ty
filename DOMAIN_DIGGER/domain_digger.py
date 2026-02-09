@@ -6,7 +6,7 @@
 ╚════██║██╔══██║██╔══╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║
 ███████║██║  ██║███████╗██║  ██║███████╗██║  ██║███████║
 ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-        MEGA SCANNER WITH LOADER + CLEAN EXIT
+        DOMAIN DIGGER MEGA SCANNER WITH LOADER + CLEAN EXIT
         BY NU11SECUR1TY 2026
 """
 
