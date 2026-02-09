@@ -1,4 +1,5 @@
-🎯 DOMAIN DIGGER - Advanced Domain Discovery Tool
+🎯 ### DOMAIN DIGGER - Advanced Domain Discovery Tool
+
 Professional-grade domain enumeration and subdomain discovery platform
 
 ![](https://github.com/nu11secur1ty/nu11secur1ty/blob/master/DOMAIN_DIGGER/docs/domain_gidder.jpg)
