@@ -2,6 +2,8 @@
 
 Professional-grade domain enumeration and subdomain discovery platform
 
+- For `Python 3.13.7`
+
 ![](https://github.com/nu11secur1ty/nu11secur1ty/blob/master/DOMAIN_DIGGER/docs/domain_gidder.jpg)
 
 # Online in Win 11 PowerShell
