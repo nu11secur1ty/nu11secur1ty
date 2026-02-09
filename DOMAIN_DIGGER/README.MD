@@ -12,7 +12,7 @@ Professional-grade domain enumeration and subdomain discovery platform
 ```
 - example:
 ```
-(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/DOMAIN_DIGGER/domain_digger.py").Content | python - your_domain_name --workers 50
+(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/DOMAIN_DIGGER/domain_digger.py").Content | python - example --workers 50
 ```
 # Manual USAGE:
 
