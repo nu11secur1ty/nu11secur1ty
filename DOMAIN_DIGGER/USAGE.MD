@@ -87,14 +87,14 @@ python domain_digger.py target --counter 200000 --workers 150 --batch 20000 --ou
 ```
 
 # 💡 PRO TIPS
-# 1. Press Ctrl+C anytime for instant exit
-# 2. Results auto-save to JSON files
-# 3. Higher workers = faster but more CPU/RAM
-# 4. Use --output to save with custom filename
-# 5. .io extension often works for tech companies
+ 1. Press Ctrl+C anytime for instant exit
+ 2. Results auto-save to JSON files
+ 3. Higher workers = faster but more CPU/RAM
+ 4. Use --output to save with custom filename
+ 5. .io extension often works for tech companies
 
 # 🛑 EXIT & RECOVERY
-# Ctrl+C = Immediate exit with progress save
-# Files saved: target_scan_progress.json
-# Interrupted scans: target_interrupted.json
-# Final results: target_scan_YYYYMMDD_HHMMSS.json
+- Ctrl+C = Immediate exit with progress save
+- Files saved: target_scan_progress.json
+- Interrupted scans: target_interrupted.json
+- Final results: target_scan_YYYYMMDD_HHMMSS.json
