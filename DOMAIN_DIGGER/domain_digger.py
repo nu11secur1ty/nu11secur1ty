@@ -660,10 +660,10 @@ Examples:
     
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
-                   MEGA SCANNER v4.0 - LOADER                  
-                     Target: {args.target:30}                  
-                     Counter: 1-{args.counter:12,}             
-                     Workers: {args.workers:12}                
+                 MEGA SCANNER v4.0 - LOADER                  
+                 Target: {args.target:30}                  
+                 Counter: 1-{args.counter:12,}             
+                 Workers: {args.workers:12}                
 ╚══════════════════════════════════════════════════════════════╝
     """)
     
