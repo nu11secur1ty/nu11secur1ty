@@ -496,10 +496,10 @@ class HyperScanner:
         """Run full mega scan"""
         print(f"""
 ╔══════════════════════════════════════════════════════════════╗
-                     HYPER SCAN WITH LOADER                    
-                     TARGET: {self.base_name:30}               
-                     COUNTER RANGE: 1-{max_counter:12,}        
-                     WORKERS: {MegaConfig.MAX_WORKERS:12}      
+                HYPER SCAN WITH LOADER                    
+                TARGET: {self.base_name:30}               
+                COUNTER RANGE: 1-{max_counter:12,}        
+                WORKERS: {MegaConfig.MAX_WORKERS:12}      
 ╚══════════════════════════════════════════════════════════════╝
         """)
         
