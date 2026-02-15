@@ -13,6 +13,12 @@ Professional-grade domain enumeration and subdomain discovery platform
 curl -s https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/DOMAIN_DIGGER/domain_digger.py | python3 - example --counter 50000
 ```
 
+- Windows 11 PowerShell
+
+```
+curl -s https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/DOMAIN_DIGGER/domain_digger.py | python - example --counter 50000
+```
+
 - Win 11 PowerShell
 ```
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/nu11secur1ty/nu11secur1ty/master/DOMAIN_DIGGER/domain_digger.py").Content | python - your_damain --options
