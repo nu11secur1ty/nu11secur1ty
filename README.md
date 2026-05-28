@@ -9,7 +9,7 @@ I'm a System Administrator, IT Infrastructure Engineer, and Penetration Testing 
 
 ***red-team oriented.***
 
-PayPal.Me for my work if you are not ashamed. Thank you all [ https://lnkd.in/dCyJGaUP ]
+PayPal.Me for my work if you are not ashamed. Thank you all [PayPal](https://www.paypal.com/paypalme/nu11secur1ty?country.x=BG&locale.x=en_US)
 
 <!--Panel
 | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nu11secur1ty&theme=shadow_red&show_icons&hide_border=true" alt="nu11secur1ty's github stats" /></a> | <a href="https://github.com/nu11secur1ty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11secur1ty&layout=compact&theme=shadow_red&hide_border=true" /></a> |
