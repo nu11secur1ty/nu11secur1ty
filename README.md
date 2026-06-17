@@ -14,7 +14,7 @@ PayPal.Me for my work if you are not ashamed. Thank you all [PayPal](https://www
 | ------------- | ------------- |
 Panel-->
 
-<!--New-design-->
+<!--New-design
 
 <!-- GitHub-compatible 3x2 cards layout (white background) -->
 <table align="center">
@@ -39,7 +39,7 @@ Panel-->
     <td></td> <!-- empty cell for spacing -->
   </tr>
 </table>
-<!--New-design-->
+New-design-->
 
 
 
