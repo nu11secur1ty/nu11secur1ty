@@ -15,7 +15,7 @@ PayPal.Me for my work if you are not ashamed. Thank you all [PayPal](https://www
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=default" width="355" style="border-radius:8px;" alt="Profile" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nu11secur1ty&theme=default" width="255" style="border-radius:8px;" alt="Profile" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nu11secur1ty&theme=default" width="255" style="border-radius:8px;" alt="Repos" />
