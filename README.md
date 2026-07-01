@@ -3,8 +3,8 @@
 I'm a System Administrator, IT Infrastructure Engineer, and Penetration Testing Engineer. I'm also an exploits developer and security researcher at
 [packetstorm.news](https://packetstorm.news/files/author/14758/),
 [cxsecurity.com](https://cxsecurity.com/author/nu11secur1ty/1/),
-[vulners.com](https://vulners.com/search?query=reporter:%22nu11secur1ty%22),
-[exploit-db.com](https://www.exploit-db.com/?author=10359), and
+[exploit-db.com](https://www.exploit-db.com/?author=10359),
+[vulners.com](https://vulners.com/search?query=reporter:%22nu11secur1ty%22), and
 [cve.org](https://www.cve.org/CVERecord/SearchResults?query=nu11secur1ty) 
 
 PayPal.Me for my work if you are not ashamed. Thank you all [PayPal](https://www.paypal.com/paypalme/nu11secur1ty?country.x=BG&locale.x=en_US)
